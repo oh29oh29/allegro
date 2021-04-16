@@ -1,6 +1,7 @@
 # allegro
 
-A new Flutter project.
+A new Flutter project.  
+간단하고 빠르게 재미로 하는 MBTI 유형 판단 어플리케이션 
 
 ## Getting Started
 
